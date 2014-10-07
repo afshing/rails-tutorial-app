@@ -15,4 +15,8 @@
 /log/*.log
 /tmp
 
+
 /.c9
+# Ignore C9 Files
+
+
